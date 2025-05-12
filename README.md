@@ -36,5 +36,5 @@ Le projet utilise l'algorithme de codage de Huffman, qui est une méthode de com
 1. Clonez le dépôt :
 
    ```bash
-   git clone https://github.com//huffman-image-compression.git
+   git clone https://github.com/Zamzurizmn/PROJECT-IF112
    cd huffman-image-compression
