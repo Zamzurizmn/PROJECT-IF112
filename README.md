@@ -38,3 +38,8 @@ Le projet utilise l'algorithme de codage de Huffman, qui est une méthode de com
    ```bash
    git clone https://github.com/Zamzurizmn/PROJECT-IF112
    cd PROJECT-IF112
+
+2. Exécutez du fichier :
+   ```bash
+   gcc -Wall -o huffman_compress main.c image.c
+   ./huffman_compress image.ppm output.huff
